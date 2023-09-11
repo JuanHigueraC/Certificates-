@@ -8,3 +8,7 @@
 # Unlab certificate
 
 ![image](https://github.com/JuanHigueraC/Certificates-/blob/477e35c52ad1ed3030ff3353462daec799d922c5/La%20forma%20del%20alma%20como%20red%20compleja%20JUAN%20CAMILO%20HIGUERA%20CALDERON_page-0001.jpg)
+
+# Certificado Tercera Escuela Latinoamericana de Economia Heterodoxa
+
+![image](https://github.com/JuanHigueraC/Certificates-/blob/884223d2227ce6ff5fed99c21fb041fd317aa825/JUAN_ELEH2023.jpeg)
