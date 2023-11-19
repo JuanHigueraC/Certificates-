@@ -1,8 +1,8 @@
 # Foundations of Sotfware Engineering
-![image](https://github.com/JuanHigueraC/Certificates-/blob/main/Fund.%20ing%20de%20software.pdf)
+![image](https://github.com/JuanHigueraC/Certificates-/blob/0efe588dfa57c1c6ead18eaf041d12a5f976aa7b/Fund.%20ing%20de%20software.pdf)
 
 # Complexity Workshop in health and ecology
-![image](https://github.com/JuanHigueraC/Certificates-/blob/main/Complejidad%20en%20Salud%20y%20Ecolog%C3%ADa.pdf)
+![image](https://github.com/JuanHigueraC/Certificates-/blob/0efe588dfa57c1c6ead18eaf041d12a5f976aa7b/Complejidad%20en%20Salud%20y%20Ecolog%C3%ADa.pdf)
 
 # Certificado Tercera Escuela Latinoamericana de Economia Heterodoxa
 ![image](https://github.com/JuanHigueraC/Certificates-/blob/884223d2227ce6ff5fed99c21fb041fd317aa825/JUAN_ELEH2023.jpeg)
